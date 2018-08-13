@@ -37,7 +37,8 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - html/css javascript
+    - html/css 
+    - javascript
     - java
     - python
 
@@ -70,11 +71,16 @@ main: #简历主要内容，
     tags:js
     detail: 项目和工作介绍，项目总结.
     sub: 前端维护
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: 华宁电子产品展示系统
+    duration: 2017.09 - 2018.09
+    tags:Angular js ts
+    detail: 项目和工作介绍，项目总结.
+    sub: 前端开发
+  - title: 中海油物资保障模拟仿真系统
+    duration: 2017.09 - 2018.09
+    tags:Angular js ts
+    detail: 项目和工作介绍，项目总结.
+    sub: 前端开发
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
