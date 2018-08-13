@@ -74,12 +74,14 @@ main: #简历主要内容，
     sub: 前端维护
   - title: 华宁电子产品展示系统
     duration: 2017.09 - 2018.09
-    tags:Angular js ts
+    tags:
+    - Angular js ts
     detail: 项目和工作介绍，项目总结.
     sub: 前端开发
   - title: 中海油物资保障模拟仿真系统
     duration: 2017.09 - 2018.09
-    tags:Angular js ts
+    tags:
+    - Angular js ts
     detail: 项目和工作介绍，项目总结.
     sub: 前端开发
    #可继续添加更多内容
