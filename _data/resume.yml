@@ -1,18 +1,18 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "简历标题"
+title: "尹腾召的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "你的名字"
+name: "尹腾召"
 jobtitle: "求职意向" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "youremail@example.com" #文本内容
+- text: "2500903628@qq.com" #文本内容
   href: 'mailto:youremail@example.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "1234567890"
+- text: "15122837955"
   href: 'tel:1234567890'
   icon: 'icons/phone.svg'
 - text: "your-website.com"
@@ -30,9 +30,13 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
+  - title: 南开大学
+    duration: "2017年9月 - 2019年"
+    sub: 硕士
+    detail: 专业或者简短说明
+  - title: 河北工业大学城市学院
+    duration: "2012年9月 - 2016年"
+    sub: 本科
     detail: 专业或者简短说明
   - title: Your University
     duration: Aug 2007 - Jun 2011
@@ -44,9 +48,9 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
+    - html/css/javascript
+    - java
+    - python
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
