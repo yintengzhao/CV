@@ -68,7 +68,8 @@ main: #简历主要内容，
   content:
   - title: 南开时“课”
     duration: 2017.09 - 2018.09
-    tags:js
+    tags:
+    - js
     detail: 项目和工作介绍，项目总结.
     sub: 前端维护
   - title: 华宁电子产品展示系统
