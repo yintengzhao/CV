@@ -15,15 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "15122837955"
   href: 'tel:1234567890'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
-  icon: 'icons/web.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
-  icon: "icons/github.svg"
-  attr: 'target="_blank"' #新标签页打开
-  # - text: "地址"
-  #   icon: "icons/location.svg"
+
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
@@ -33,11 +25,11 @@ main: #简历主要内容，
   - title: 南开大学
     duration: "2017.09 - 2019.06"
     sub: 研究生
-    detail: 计算机学院 计算机技术
+    detail: 计算机学院  计算机技术
   - title: 河北工业大学城市学院
     duration: "2012.09 - 2016.06"
     sub: 本科
-    detail: 计算机科学与软件学院 计算机科学与技术
+    detail: 计算机科学与软件学院  计算机科学与技术
 
 
 - type: skills
@@ -73,11 +65,11 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 男开时“课”
+  - title: 南开时“课”
     duration: 2017.09 - 2018.09
     tags:js
     detail: 项目和工作介绍，项目总结.
-    sub: 维护者
+    sub: 前端维护
   - title: Project Name
     summary: Projects' introduction or summary
     detail:
