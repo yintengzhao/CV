@@ -4,8 +4,8 @@
 title: "尹腾召的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "尹腾召"
-jobtitle: "求职意向" #可空不显示
-photo: "assets/img/photo.jpg" #照片可空，不显示
+#jobtitle: "求职意向" #可空不显示
+#photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -33,26 +33,22 @@ main: #简历主要内容，
   - title: 南开大学
     duration: "2017年9月 - 2019年"
     sub: 硕士
-    detail: 专业或者简短说明
+    detail: 计算机学院 计算机技术
   - title: 河北工业大学城市学院
     duration: "2012年9月 - 2016年"
     sub: 本科
-    detail: 专业或者简短说明
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+    detail: 计算机科学与软件学院 计算机科学与技术
+
 
 - type: skills
   # name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - html/css/javascript
+    - html/css javascript
     - java
     - python
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+
 
 - type: experience
   name: 经验
