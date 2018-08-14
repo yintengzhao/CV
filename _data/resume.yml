@@ -62,19 +62,19 @@ main: #简历主要内容，
   - title: 安全威胁情报管理系统设计与实现（secure-es）
     duration: 2017.09 - 2018.03
     tags:
-    - elasticsearch searchguard IP过滤
+    - Elasticsearch SearchGuard IP过滤
     detail: 为基于文档的开源搜索引擎ElasticSearch构建了用户认证、权限管理等安全模块，可提供高效、安全的威胁情报存储和检索。
     sub: 协作开发
   - title: 华宁电子产品展示系统
     duration: 2017.09 - 2018.09
     tags:
-    - Angular JS ts Gulp
+    - Angular JS TS Gulp
     detail: 为华宁电子有限公司开发的产品展示系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。
     sub: 前端开发
   - title: 深远海油气田钻采开发物资保障仿真系统
     duration: 2017.09 - 2018.09
     tags:
-    - Angular JS ts
+    - Angular JS TS
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
     sub: 前端开发 后端维护与开发
    #可继续添加更多内容
