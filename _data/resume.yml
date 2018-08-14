@@ -59,12 +59,12 @@ main: #简历主要内容，
     detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速。
     sub: 前端维护
     
-  - title: es
+  - title: 安全威胁情报管理系统设计与实现（secure-es）
     duration: 2017.09 - 2018.03
     tags:
-    - elasticsearch searchguard iptables
-    detail: 为开源软件elasticsearch构建安全模块。
-    sub: 开发与维护
+    - elasticsearch searchguard IP过滤
+    detail: 为基于文档的开源搜索引擎ElasticSearch构建了用户认证、权限管理等安全模块，可提供高效、安全的威胁情报存储和检索。
+    sub: 协作开发
   - title: 华宁电子产品展示系统
     duration: 2017.09 - 2018.09
     tags:
@@ -93,7 +93,8 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '荣誉'
   content: #选择需要的格式
-  - title: "加粗:"
+  - title: "本科期间连续三年获得校级奖学金"
+      duration: 2014 2015 2016
     text: ""
 #- type: 
 #  name: '其他'
