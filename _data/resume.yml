@@ -79,14 +79,22 @@ main: #简历主要内容，
     sub: 前端开发 后端维护与开发
    #可继续添加更多内容
 
-
+- type: projects
+  name: 论文
+  content:
+  - title:油气田钻采物资保障体系模拟仿真系统研究
+    duration: 2017.09 - 2018.09
+    tags:
+    - 油气田；物资保障；仿真系统；模拟退火
+    detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速。
+    
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
-  name: '论文'
+  name: '荣誉'
   content: #选择需要的格式
   - title: "加粗:"
-    text: "油气田钻采物资保障体系模拟仿真系统研究"
+    text: ""
   - title: "兴趣:"
     items: #单行列表
     - 睡觉
