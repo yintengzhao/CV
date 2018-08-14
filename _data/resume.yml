@@ -76,7 +76,7 @@ main: #简历主要内容，
     tags:
     - Angular JS TS
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
-    sub: 前端开发 后端维护与开发
+    sub: 前端开发 后端协作开发与维护
    #可继续添加更多内容
 
 - type: projects
