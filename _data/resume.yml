@@ -37,17 +37,17 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - html/css 
-    - javascript
-    - java
-    - python
+    - HTML/CSS 
+    - JavaScript
+    - Java
+    - Python
   - title: 技术栈
     items: #itmems 可以小块的方式显示
     - Linux
     - Git
     - MySQL
     - Gulp
-    - elasticsearch
+    - Elasticsearch
 
 - type: projects
   name: 产品项目
