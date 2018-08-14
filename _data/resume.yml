@@ -79,7 +79,20 @@ main: #简历主要内容，
     sub: 前端开发 后端维护与开发
    #可继续添加更多内容
 
-    
+- type: projects
+  name: Projects
+  content:
+  - title: 项目名称
+    duration: xxxx年xx月 - yyyy年yy月
+    detail: 项目和工作介绍，项目总结.
+    sub: 维护者
+  - title: Project Name
+    summary: Projects' introduction or summary
+    detail:
+      md: _data/demo.md
+    sub: Creator and maintainer.
+   #可继续添加更多内容
+
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
