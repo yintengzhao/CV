@@ -33,7 +33,7 @@ main: #简历主要内容，
 
 
 - type: skills
-  # name: "技能"
+  name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
@@ -50,7 +50,7 @@ main: #简历主要内容，
     - elasticsearch
 
 - type: projects
-  name: Projects
+  name: 产品项目
   content:
   - title: 南开时“课”
     duration: 2017.09 - 2018.09
@@ -78,6 +78,25 @@ main: #简历主要内容，
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、海口、惠州四大基地的南海油气田作业。
     sub: 前端开发 后端维护与开发
    #可继续添加更多内容
+  
+  
+ #others 其他简略内容(列表)
+others: #其他列表显示
+- type: others #ID可以为空
+  name: '论文'
+  content: #选择需要的格式
+  - 单行文字
+  - title: "加粗:"
+    text: "列表项二"
+  - title: "兴趣:"
+    items: #单行列表
+    - 睡觉
+    - 吃饭
+    - coding
+  - title: 列表
+    list:
+    - 第一项
+    - 第二项
 
 #others 其他简略内容(列表)
 others: #其他列表显示
