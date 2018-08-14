@@ -78,37 +78,7 @@ main: #简历主要内容，
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
     sub: 前端开发 后端维护与开发
    #可继续添加更多内容
- 
- 
- - type: experience
-  name: 经验
-  content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
-    tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
-    #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-- type: 
-  name: 论文
-  content:
-  - title:油气田钻采物资保障体系模拟仿真系统研究
-   # duration: “2017.09 - 2018.09”
-    tags:
-    - 油气田；物资保障；仿真系统；模拟退火
-    detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速。
     
 #others 其他简略内容(列表)
 others: #其他列表显示
