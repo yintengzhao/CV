@@ -93,7 +93,7 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '荣誉'
   content: #选择需要的格式
-  - title: "本科期间连续三年获得校级奖学金"
+  - title: 本科期间连续三年获得校级奖学金
       duration: 2014 2015 2016
     text: ""
 #- type: 
