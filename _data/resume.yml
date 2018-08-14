@@ -41,6 +41,13 @@ main: #简历主要内容，
     - javascript
     - java
     - python
+  - title: 技术栈
+    items: #itmems 可以小块的方式显示
+    - Linux
+    - Git
+    - MySQL
+    - Gulp
+    - elasticsearch
 
 
 - type: experience
@@ -69,21 +76,21 @@ main: #简历主要内容，
   - title: 南开时“课”
     duration: 2017.09 - 2018.09
     tags:
-    - js
-    detail: 项目和工作介绍，项目总结.
+    -Angular JS
+    detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速。
     sub: 前端维护
   - title: 华宁电子产品展示系统
     duration: 2017.09 - 2018.09
     tags:
-    - Angular js ts
-    detail: 项目和工作介绍，项目总结.
+    - Angular JS ts Gulp
+    detail: 为华宁电子有限公司开发的产品展示系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。
     sub: 前端开发
-  - title: 中海油物资保障模拟仿真系统
+  - title: 深远海油气田钻采开发物资保障仿真系统
     duration: 2017.09 - 2018.09
     tags:
-    - Angular js ts
-    detail: 项目和工作介绍，项目总结.
-    sub: 前端开发
+    - Angular JS ts
+    detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、海口、惠州四大基地的南海油气田作业。
+    sub: 前端开发 后端维护与开发
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
