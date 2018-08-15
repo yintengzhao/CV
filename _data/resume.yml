@@ -15,7 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "15122837955"
   #href: 'tel:1234567890'
   icon: 'icons/phone.svg'
-- text: "天津市津南区海河教育园区同砚路38号南开大学津南校区计算机学院"
+- text: "天津市津南区海河教育园区同砚路38号南开大学津南校区"
   #href: 'tel:1234567890'
   icon: 'icons/location.svg'
 
