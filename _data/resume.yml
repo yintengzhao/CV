@@ -10,11 +10,14 @@ name: "尹腾召"
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "2500903628@qq.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空  
+  #href: 'mailto:youremail@example.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "15122837955"
-  href: 'tel:1234567890'
+  #href: 'tel:1234567890'
   icon: 'icons/phone.svg'
+- text: "天津市津南区海河教育园区同砚路38号南开大学津南校区计算机学院"
+  #href: 'tel:1234567890'
+  icon: 'icons/location.svg'
 
 
 #main下面是主体内容，类别条数不限
