@@ -62,10 +62,10 @@ main: #简历主要内容，
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
     sub: 前端开发 后端协作开发与维护
   - title: 华宁电子产品展示系统
-    duration: 2017.09 - 2018.09
+    duration: 2018.02 - 2018.08
     tags:
     - Angular JS TS Gulp
-    detail: 为华宁电子有限公司开发的产品展示系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。
+    detail: 为华宁电子有限公司开发的产品展示系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。目前已经上线：http://hndz.mobisys.cc
     sub: 前端开发  
     
   - title: 安全威胁情报管理系统设计与实现（secure-es）
@@ -76,7 +76,7 @@ main: #简历主要内容，
     sub: 协作开发
     
   - title: 南开时“课”
-    duration: 2017.09 - 2018.09
+    duration: 2017.09 - 至今
     tags:
     - Angular JS
     detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速。
