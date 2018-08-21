@@ -59,11 +59,6 @@ main: #简历主要内容，
     duration: 2017.09 - 2018.09
     tags:
     - Angular JS Java SSH
-     - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
     sub: 前端开发 后端协作开发与维护
   - title: 华宁电子产品展示系统
