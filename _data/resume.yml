@@ -59,6 +59,7 @@ main: #简历主要内容，
     duration: 2017.09 - 2018.09
     tags:
     - Angular JS Java SSH
+    -title:"454"
     items:
     -系统分为前端、后端、算法三个部分
     -前端bufen
