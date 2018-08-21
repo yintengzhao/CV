@@ -59,6 +59,7 @@ main: #简历主要内容，
     duration: 2017.09 - 2018.09
     tags:
     - Angular JS Java SSH
+    - title: 列表
       list:
     - 第一项
     - 第二项
