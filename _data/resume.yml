@@ -50,6 +50,7 @@ main: #简历主要内容，
     - Git
     - MySQL
     - Gulp
+    - Docker
     - Elasticsearch
 
 - type: projects
