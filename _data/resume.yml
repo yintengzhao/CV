@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "尹腾召的简历"
+#title: "尹腾召的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "尹腾召"
 #jobtitle: "求职意向" #可空不显示
@@ -29,7 +29,7 @@ main: #简历主要内容，
     duration: "2017.09 - 至今"
     sub: 硕士
     detail: 计算机学院  计算机技术
-  - title: 河北工业大学城市学院
+  - title: 河北工业大学
     duration: "2012.09 - 2016.06"
     sub: 本科
     detail: 计算机科学与软件学院  计算机科学与技术
@@ -62,6 +62,13 @@ main: #简历主要内容，
     - Angular JS Java SSH
     detail: 与中海油公司合作的物资保障仿真系统。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
     sub: 前后端开发 算法设计
+    
+   - title: 油套管信息采集系统
+    duration: 2017.10 - 2018.06
+    tags:
+    - Python、OpenCV、 machine vision 
+    detail: 使用OpenCV对中海油套管垛的端面图像进行处理，识别油套管并自动统计油套管的数量。与现有的信息系统进行对接,进行入库、出库等操作。
+    sub: 协作开发 
     
   - title: 安全威胁情报管理系统设计与实现（secure-es）
     duration: 2017.09 - 2018.03
