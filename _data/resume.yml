@@ -52,36 +52,6 @@ main: #简历主要内容，
     - Gulp
     - Elasticsearch
 
-- type: projects
-  name: 产品项目
-  content:
-  - title: 深远海油气田钻采开发物资保障仿真系统
-    duration: 2017.09 - 2018.09
-    tags:
-    - Angular JS Java SSH
-    detail: 与中海油公司合作的物资保障仿真系统。系统分为前端、后端、算法三个模块，独立开发，降低代码的耦合性能。前端使用angular+typescript实现，后端使用Spring+Struct2+Hibernate框架。算法模块用ruby开发。目前项目已通过验收，预计2019年将应用于中海油集团海口、湛江、惠州、南海岛礁四大基地的南海油气田作业。
-    sub: 前后端开发 算法设计
- 
-   - title: 安全威胁情报管理系统设计与实现（secure-es）
-    duration: 2017.09 - 2018.03
-    tags:
-    - Elasticsearch SearchGuard IP过滤
-    detail: 为基于文档的开源搜索引擎ElasticSearch构建了用户认证、权限管理等安全模块，可提供高效、安全的威胁情报存储和检索。
-    sub: 协作开发
-    
-    - title: 南开时“课”
-    duration: 2017.09 - 至今
-    tags:
-    - Angular JS Java
-    detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速,后端使用php+mysql实现。服务于6万南开校友和5千教师。链接http://pingke.newfuture.cc(适用于手机端,已于2017年关闭后台,每学期末会开放评教)
-    sub: 前端独立开发 后端协作开发  
-    
-  - title: 华宁电子产品展示系统
-    duration: 2018.02 - 2018.08
-    tags:
-    - Angular JS TS Gulp
-    detail: 为华宁电子有限公司开发的产品展示系统。前后端分离。前端分为用户系统和后台管理系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。目前已经上线：http://hndz.mobisys.cc
-    sub: 前端开发   
 
    #可继续添加更多内容
 
