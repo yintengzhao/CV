@@ -68,6 +68,21 @@ main: #简历主要内容，
     - Elasticsearch SearchGuard IP过滤
     detail: 为基于文档的开源搜索引擎ElasticSearch构建了用户认证、权限管理等安全模块，可提供高效、安全的威胁情报存储和检索。
     sub: 协作开发
+    
+  - title: 南开时“课”
+    duration: 2017.09 - 至今
+    tags:
+    - Angular JS Java
+    detail: 为南开大学87年之后所有校友开发手机web端评教系统。包括对历届多种格式的数据清洗整理，前端使用angular纯静态实现配合CDN加速,后端使用php+mysql实现。服务于6万南开校友和5千教师。链接http://pingke.newfuture.cc(适用于手机端,已于2017年关闭后台,每学期末会开放评教)
+    sub: 前端独立开发 后端协作开发  
+    
+  - title: 华宁电子产品展示系统
+    duration: 2018.02 - 2018.08
+    tags:
+    - Angular JS TS Gulp
+    detail: 为华宁电子有限公司开发的产品展示系统。前后端分离。前端分为用户系统和后台管理系统。用户系统适配移动端，后台管理系统适配pc端。使用基于流的自动化构建工具Gulp。目前已经上线：http://hndz.mobisys.cc
+    sub: 前端开发   
+
 
 
    #可继续添加更多内容
