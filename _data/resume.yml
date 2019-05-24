@@ -87,7 +87,7 @@ main: #简历主要内容，
   - title: 面向机器学习任务的边缘计算调度系统设计与实现
     duration: 2018.10 - 2019.05
     tags:
-    - Python Intel® Movidius™ Neural Compute Stick GoogLeNet 任务调度
+    - Python Intel® Movidius™ Neural Compute Stick GoogLeNet
     detail: 基于Intel® Movidius™ Neural Compute Stick，针对边缘设备算力不足的问题提出了“低性能设备+NCS”的解决方案，将AI应用移植到了NCS平台，实现了基于NCS的机器学习任务调度算法，使低性能边缘设备具备了处理大规模运算任务的能力，设计并实现了任务调度系统。
     sub: 模型开发 软件开发   
 
@@ -101,6 +101,10 @@ main: #简历主要内容，
   - title: 油气田钻采物资保障体系模拟仿真系统研究
     duration: 2018.04 - 2018.09
     detail: 目前已知的研究中，国内还没有关于油气田钻采物资保障系统的仿真化探索。本系统通过计算机仿真技术研究油气田资源物资保障体系以及规划，分析油气开发的作业环境及各作业阶段的物资保障需求，从而形成物资保障顶层规划设计方案。
+    #sub: 维护者
+  - title: Scheduling Machine Learning Tasks on Heterogeneous Edge Computing Platforms 
+    duration: 2018.10 - 2019.05
+    detail:  In this paper, we transplant the neural network to NCS to realize offline deployment of AI applications; for exploring the maximum efficiency of "low performance equipment + NCS", we allocate largescale computing tasks to different platforms according to the computing speed of the terminal equipment and NCS, and the number of NCS, to achieve dynamic scheduling of tasks, contributing to the popularity of AI applications and moving intelligence from the cloud to the edge. 
     #sub: 维护者
     
 
