@@ -103,10 +103,7 @@ main: #简历主要内容，
     detail: 目前已知的研究中，国内还没有关于油气田钻采物资保障系统的仿真化探索。本系统通过计算机仿真技术研究油气田资源物资保障体系以及规划，分析油气开发的作业环境及各作业阶段的物资保障需求，从而形成物资保障顶层规划设计方案。
     #sub: 维护者
     
- - title: Scheduling Machine Learning Tasks on Heterogeneous Edge Computing Platforms 
-    duration: 2018.10 - 2019.05
-    detail: 本论文基于Intel® Movidius™ Neural Compute Stick，针对边缘设备算力不足的问题提出了“低性能设备+NCS”的解决方案，将AI应用移植到了NCS平台并对NCS的性能及其并行性进行了测试，设计并实现了基于NCS的机器学习任务调度算法，实现了任务的动态调度，使低性能边缘设备具备了处理大规模运算任务的能力。
-    #sub: 维护者
+
 
 
 #others 其他简略内容(列表)
