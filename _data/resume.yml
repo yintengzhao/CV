@@ -89,7 +89,7 @@ main: #简历主要内容，
     tags:
     - Python Intel® Movidius™ Neural Compute Stick GoogLeNet
     detail: 基于Intel® Movidius™ Neural Compute Stick，针对边缘设备算力不足的问题提出了“低性能设备+NCS”的解决方案，将AI应用移植到了NCS平台，实现了基于NCS的机器学习任务调度算法，使低性能边缘设备具备了处理大规模运算任务的能力，设计并实现了任务调度系统。
-    sub: 模型开发 软件开发   
+    sub: 模型移植 软件开发   
 
 
 
